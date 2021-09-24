@@ -12,7 +12,7 @@
   <li> React js</li>
   <li> Php</li>
   <li> Laravel</li>
-  <li> aspnet c#</li>
+  <li> AspNet C#</li>
  </ul>
 
   
