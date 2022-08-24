@@ -2,18 +2,8 @@
  <div>
  <h3>Hey, i'm Rodrigo Brinate</h3>
  <p>Software developer</p>
- <p>Currently i'm learning: React and Raravel</p>
  <p>Living in Brasil</p>
- <p>stacks</p>
- <ul>
-  <li> Html</li>
-  <li> Css</li>
-  <li> Javascript</li>
-  <li> React js</li>
-  <li> Php</li>
-  <li> Laravel</li>
-  <li> AspNet C#</li>
- </ul>
+
 
   
   ##
